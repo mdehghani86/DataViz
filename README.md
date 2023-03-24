@@ -28,7 +28,7 @@ pip install matplotlib
 
 Once you have the required libraries installed, you can clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/data-visualization-python-tutorial.git
+git clone https://github.com/mdehghani86/DataViz.git
 ```
 Alternatively, you can download the repository as a ZIP file and extract it to a folder on your machine.
 
