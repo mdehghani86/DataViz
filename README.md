@@ -8,9 +8,9 @@ The tutorial covers several popular Python libraries for creating data visualiza
 **Libraries Covered**
 Here are the libraries covered in this tutorial:
 
-- Matplotlib: A popular plotting library for creating static, publication-quality visualizations.
-- Seaborn: A higher-level library built on top of Matplotlib, designed for creating more complex visualizations with less code.
-- Plotly: A library for creating interactive, web-based visualizations.
+-Matplotlib: A popular plotting library for creating static, publication-quality visualizations.
+-Seaborn: A higher-level library built on top of Matplotlib, designed for creating more complex visualizations with less code.
+-Plotly: A library for creating interactive, web-based visualizations.
 
 **Getting Started**
 To get started with this tutorial, you will need to have Python installed on your machine. We recommend using Python 3.7 or later.
