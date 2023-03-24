@@ -41,7 +41,7 @@ This will open the Jupyter Notebook interface in your web browser.
 Alternatively you can use Google Colab to run the notebooks
 
 **Contributing**
-If you find any issues with the code examples or have suggestions for improvements, please open an issue on this repository or submit a pull request. We welcome contributions from the community!
+If you find any issues with the code examples or have suggestions for improvements, please open an issue on this repository or submit a pull request. We welcome contributions from the students!
 
 **License**
 The code examples in this repository are licensed under the MIT License. Please see the LICENSE file for more information.
